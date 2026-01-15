@@ -34,7 +34,7 @@ body {
     padding: 30px;
     box-sizing: border-box;
 
-    background-image: url('../tacos-background-40%opacity.jpg');
+    background-image: url("tacos-background-40%opacity.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     
